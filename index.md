@@ -1,6 +1,6 @@
 ## Cool Language - Project 1
 
-Check out the source code via GitHub.
+The goal of this project is to emulate the execution of programs from a small, C-like programming language, on a stack-based machine with a write-back cache, and to report some metrics of the program's execution.
 
 ### Markdown
 
