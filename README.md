@@ -1,6 +1,6 @@
-# CPU-Simulator
+# cool Interpreter
 
-Simulates execution of machine code of the miaginary language 'cool'
+Simulates execution of machine code of the ficticious programming language 'cool'
 
 Compiled with cc -o runcool runcool.c
 
